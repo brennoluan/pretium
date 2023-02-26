@@ -28,7 +28,7 @@
     "igorescobar/jquery-mask-plugin": "v1.14.1",
     "fortawesome/font-awesome": "5.15.4",
     "coffeecode/paginator":  "1.0.7",
-    "league/csv": "9.7.3",
+    "league/csv": "9.7.4",
     "phpmailer/phpmailer":  "v6.6.0"
   }
 }
