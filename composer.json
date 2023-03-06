@@ -29,6 +29,6 @@
     "fortawesome/font-awesome": "5.15.4",
     "coffeecode/paginator":  "1.0.7",
     "league/csv": "9.7.3",
-    "phpmailer/phpmailer":  "v6.6.0"
+    "phpmailer/phpmailer":  "v6.8.0"
   }
 }
